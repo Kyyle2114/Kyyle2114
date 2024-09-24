@@ -8,7 +8,7 @@ I'm college student majoring in machine learning
 - Computer Vision
   - Object Detection, Image Segmentation 
   - Weakly-supervised learning
-- AI for Medical Domain
+- Medical AI 
 - Anomaly Detection
 - MLOps
 
