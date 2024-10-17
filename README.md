@@ -1,8 +1,8 @@
-### Machine Learning Engineer
+### AI/ML Engineer
 
-Hi, I'm Kyyle
+JooHyeok Kim from the School of Information Convergence, Kwangwoon University.
 
-I'm college student majoring in machine learning
+Highly interested in AI / Machine Learning.
 
 ### Interests
 - Computer Vision
